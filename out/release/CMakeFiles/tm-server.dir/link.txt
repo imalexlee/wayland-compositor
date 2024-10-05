@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG CMakeFiles/tm-server.dir/src/entry.c.o -o tm-server  -Wl,-rpath,/usr/local/lib/x86_64-linux-gnu -lwayland-server -lxkbcommon -lrt /usr/local/lib/x86_64-linux-gnu/libwlroots-0.19.so 
