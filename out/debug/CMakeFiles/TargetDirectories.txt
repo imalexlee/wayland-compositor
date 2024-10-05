@@ -1,3 +1,0 @@
-/home/alexlee/Desktop/wayland-test/out/debug/CMakeFiles/tm-server.dir
-/home/alexlee/Desktop/wayland-test/out/debug/CMakeFiles/edit_cache.dir
-/home/alexlee/Desktop/wayland-test/out/debug/CMakeFiles/rebuild_cache.dir

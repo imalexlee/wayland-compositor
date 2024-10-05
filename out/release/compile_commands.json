@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/alexlee/Desktop/wayland-test/out/release",
-  "command": "/usr/bin/cc  -isystem /home/alexlee/Desktop/wayland-test/src -isystem /usr/local/include/wlroots-0.19 -isystem /usr/local/include/libdrm -isystem /usr/include/pixman-1 -O3 -DNDEBUG -Ofast -fno-signed-zeros -flto -Wall -Wextra -Wno-missing-field-initializers -I/usr/local/include/wlroots-0.19 -I/usr/local/include -I/usr/local/include/libdrm -I/usr/include/pixman-1 -DWLR_USE_UNSTABLE -o CMakeFiles/tm-server.dir/src/entry.c.o -c /home/alexlee/Desktop/wayland-test/src/entry.c",
-  "file": "/home/alexlee/Desktop/wayland-test/src/entry.c"
-}
-]
